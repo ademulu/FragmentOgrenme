@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment Ogrenme</string>
+    <string name="ekran1">1. Fragment Ekrani</string>
+    <string name="ekran2">2. Fragment Ekrani</string>
+</resources>
